@@ -12,3 +12,6 @@ This repository showcases a **Sales Performance Dashboard** created in Excel. Th
 
 
 Created with Microsoft Excel (Pivot Tables, Charts, and Slicers) for sales analysis and visualization.
+
+## 👩‍💻 Developed By
+**Vaishnavi Kenchi**

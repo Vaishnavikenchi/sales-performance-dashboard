@@ -10,8 +10,5 @@ This repository showcases a **Sales Performance Dashboard** created in Excel. Th
 - **Interactive Region Slicer:** Filter charts by region.
 - **Total Quantity by Product:** Column chart summarizing total quantities.
 
-## Screenshot
-![Sales Dashboard](sales-performance-dashboard.png)
-
 
 Created with Microsoft Excel (Pivot Tables, Charts, and Slicers) for sales analysis and visualization.
